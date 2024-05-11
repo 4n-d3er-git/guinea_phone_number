@@ -54,7 +54,8 @@ import 'package:guinea_phone_number/guinea_phone_number.dart';
 # Example
 
 ### Orange
-<img src="https://github.com/4n-d3er-git/guinea_phone_number/blob/main/exampleorange.png?raw=true" align = "top" height = "100px">
+<img src="https://github.com/4n-d3er-git/guinea_phone_number/blob/main/exempleorange.png?raw=true" align = "top" height = "100px">
+
 
 ```dart
 Center(
