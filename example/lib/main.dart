@@ -6,18 +6,17 @@ void main() {
 }
 
 class MonApp extends StatelessWidget {
-   const MonApp({super.key});
+  const MonApp({super.key});
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
         body: Center(
-          child: GuineaPhoneNumber(        
+          child: GuineaPhoneNumber(
             decoration: const InputDecoration(
-              border: OutlineInputBorder(),
-              hintText: "Veuillez entrer le numero de téléphone"
-            ),                  
-                        ),
+                border: OutlineInputBorder(),
+                hintText: "Veuillez entrer le numero de téléphone"),
+          ),
         ),
       ),
     );
