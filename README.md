@@ -54,7 +54,7 @@ import 'package:guinea_phone_number/guinea_phone_number.dart';
 # Example
 
 
-<img src="https://github.com/deekshithx/animated_hint_textfield/blob/master/showcase/slide.gif?raw=true" align = "top" height = "100px">
+<img src="https://github.com/4n-d3er-git/guinea_phone_number/blob/main/examplemtn.png?raw=true" align = "top" height = "100px">
 
 ```dart
 Center(
